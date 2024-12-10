@@ -23,7 +23,7 @@
 {
 "id": 3,
 "name": "Golf Car Kimo",
-"locationn": "This Golf Car is handy, get from A – B",
+"location": "This Golf Car is handy, get from A – B",
 "price": 4.99,
 "imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
 "chargeRate": 80,
