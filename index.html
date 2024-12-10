@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sample Test Page</title>
+    </head>
+    <body>
+        <h2>request</h2>
+        <table id = "tb1" border = "1">
+            <tr>
+                <th>id</th>
+                <th>name</th>
+                <th>location</th>
+                <th>price</th>
+                <th>imageUrl</th>
+                <th>chargeRate</th>
+                <th>seats</th>
+                <th>distance</th>
+            </tr>
+        </table>
+        <script>
+            fetch("golfcars.json")
+                .then(response => response.json())
+                .then(data => {
+                    for (var i = 0; i<data.items.length; i++){
+                        let vid = data.items[i].id;
+                        let vname = data.items[i].name;
+                        let vlocation = data.items[i].location;
+                        let vprice = data.items[i].price;
+                        let vimageUrl = data.items[i].imageUrl;
+                        let vchargeRate = data.items[i].chargeRate;
+                        let vseats = data.items[i].seats;
+                        let vdistance = data.items[i].distance;
+                            document.querySelector("#tb1").innerHTML += `
+                                <tr>
+                                    <td>${vid}</td>
+                                    <td>${vname}</td>
+                                    <td>${vlocation}</td>
+                                    <td>${vprice}</td>
+                                    <td>${vimageUrl}</td>
+                                    <td>${vchargeRate}</td>
+                                    <td>${vseats}</td>
+                                    <td>${vdistance}</td>
+                                </tr>`;
+                    }
+                })
+        </script>
+    </body>
+</html>
