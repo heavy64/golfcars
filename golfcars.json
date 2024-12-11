@@ -5,7 +5,7 @@
 "name": "Golf Car Mo",
 "location": "This Golf Car is an all rounder and fast",
 "price": 4.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar1.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar1.jpg",
 "chargeRate": 90,
 "seats": 4,
 "distance": 140
@@ -15,7 +15,7 @@
 "name": "Golf Car Sara",
 "location": "This Golf Car is for a small group",
 "price": 5.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar2.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar2.jpg",
 "chargeRate": 60,
 "seats": 6,
 "distance": 152
@@ -25,7 +25,7 @@
 "name": "Golf Car Kimo",
 "location": "This Golf Car is handy, get from A – B",
 "price": 4.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar3.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar3.jpg",
 "chargeRate": 80,
 "seats": 3,
 "distance": 66
