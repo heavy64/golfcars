@@ -5,7 +5,7 @@
 "name": "Golf Car Mo",
 "location": "This Golf Car is an all rounder and fast",
 "price": 4.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar1",
 "chargeRate": 90,
 "seats": 4,
 "distance": 140
@@ -15,7 +15,7 @@
 "name": "Golf Car Sara",
 "location": "This Golf Car is for a small group",
 "price": 5.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar2",
 "chargeRate": 60,
 "seats": 6,
 "distance": 152
@@ -25,7 +25,7 @@
 "name": "Golf Car Kimo",
 "location": "This Golf Car is handy, get from A – B",
 "price": 4.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar3",
 "chargeRate": 80,
 "seats": 3,
 "distance": 66
@@ -35,7 +35,7 @@
 "name": "Golf Car X",
 "location": "Your premium ride for anything",
 "price": 6.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar4",
 "chargeRate": 98,
 "seats": 4,
 "distance": 200
@@ -45,7 +45,7 @@
 "name": "Golf Car Nino",
 "location": "Might be the smoothest ride they say",
 "price": 5.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar5",
 "chargeRate": 88,
 "seats": 4,
 "distance": 400
@@ -55,7 +55,7 @@
 "name": "Golf Car Mina",
 "location": "A real carrier",
 "price": 6.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar6",
 "chargeRate": 91,
 "seats": 6,
 "distance": 300
@@ -65,7 +65,7 @@
 "name": "Golf Car Layla",
 "location": "Gets you from A – B in style",
 "price": 4.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar7",
 "chargeRate": 90,
 "seats": 2,
 "distance": 320
@@ -75,7 +75,7 @@
 "name": "Golf Car Lea",
 "location": "Not fast but mighty flexible",
 "price": 4.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar8",
 "chargeRate": 46,
 "seats": 2,
 "distance": 420
@@ -85,7 +85,7 @@
 "name": "Golf Car Bibi",
 "location": "Classic ride from A – B – A",
 "price": 4.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar9",
 "chargeRate": 56,
 "seats": 2,
 "distance": 520
@@ -93,7 +93,7 @@
 {
 "id": 10,
 "name": "Golf Car Habibi",
-"location": "Gets you 200kgs from the supermarket",
+"location": "https://heavy64.github.io/golfcars/images/golfCar10",
 "price": 6.99,
 "imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
 "chargeRate": 76,
@@ -105,7 +105,7 @@
 "name": "Golf Car Amura",
 "location": "Our fastest out there",
 "price": 5.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar11",
 "chargeRate": 29,
 "seats": 2,
 "distance": 540
@@ -115,7 +115,7 @@
 "name": "Golf Car Amira",
 "location": "Handles like a beauty",
 "price": 5.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar12",
 "chargeRate": 99,
 "seats": 3,
 "distance": 550
@@ -125,7 +125,7 @@
 "name": "Golf Car Rami",
 "location": "Could go offroad, if it was allowed to",
 "price": 7.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar13",
 "chargeRate": 100,
 "seats": 3,
 "distance": 950
@@ -135,7 +135,7 @@
 "name": "Golf Car Shushu",
 "location": "Pack your fitness gear and let's go",
 "price": 4.99,
-"imageUrl": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
+"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar14",
 "chargeRate": 90,
 "seats": 3,
 "distance": 1130
