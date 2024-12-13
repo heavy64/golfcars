@@ -3,7 +3,8 @@
 {
 "id": 1,
 "name": "Golf Car Mo",
-"location": "30,06573, 30,94137",
+"latitude": 30.06573,
+"longitude": 30.94137,
 "price": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar1.png",
 "chargeRate": 90,
@@ -13,7 +14,8 @@
 {
 "id": 2,
 "name": "Golf Car Sara",
-"location": "This Golf Car is for a small group",
+"latitude": 30.06574,
+"longitude": 30.94138,
 "price": 5.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar2.png",
 "chargeRate": 60,
@@ -23,7 +25,8 @@
 {
 "id": 3,
 "name": "Golf Car Kimo",
-"location": "This Golf Car is handy, get from A – B",
+"latitude": 30.06575,
+"longitude": 30.94139,
 "price": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar3.png",
 "chargeRate": 80,
@@ -33,7 +36,8 @@
 {
 "id": 4,
 "name": "Golf Car X",
-"location": "Your premium ride for anything",
+"latitude": 30.06572,
+"longitude": 30.94136,
 "price": 6.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar4.png",
 "chargeRate": 98,
@@ -43,7 +47,8 @@
 {
 "id": 5,
 "name": "Golf Car Nino",
-"location": "Might be the smoothest ride they say",
+"latitude": 30.06571,
+"longitude": 30.94135,
 "price": 5.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar5.png",
 "chargeRate": 88,
@@ -53,7 +58,8 @@
 {
 "id": 6,
 "name": "Golf Car Mina",
-"location": "A real carrier",
+"latitude": 30.06570,
+"longitude": 30.94134,
 "price": 6.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar6.png",
 "chargeRate": 91,
@@ -63,7 +69,8 @@
 {
 "id": 7,
 "name": "Golf Car Layla",
-"location": "Gets you from A – B in style",
+"latitude": 30.06569,
+"longitude": 30.94133,
 "price": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar7.png",
 "chargeRate": 90,
@@ -73,7 +80,8 @@
 {
 "id": 8,
 "name": "Golf Car Lea",
-"location": "Not fast but mighty flexible",
+"latitude": 30.06569,
+"longitude": 30.94134,
 "price": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar8.png",
 "chargeRate": 46,
@@ -83,7 +91,8 @@
 {
 "id": 9,
 "name": "Golf Car Bibi",
-"location": "Classic ride from A – B – A",
+"latitude": 30.06568,
+"longitude": 30.94133,
 "price": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar9.png",
 "chargeRate": 56,
@@ -93,7 +102,8 @@
 {
 "id": 10,
 "name": "Golf Car Habibi",
-"location": "Classic ride from A – B – A",
+"latitude": 30.06567,
+"longitude": 30.94132,
 "price": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar10.png",
 "chargeRate": 76,
@@ -103,7 +113,8 @@
 {
 "id": 11,
 "name": "Golf Car Amura",
-"location": "Our fastest out there",
+"latitude": 30.06565,
+"longitude": 30.94133,
 "price": 5.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar11.png",
 "chargeRate": 29,
@@ -113,7 +124,8 @@
 {
 "id": 12,
 "name": "Golf Car Amira",
-"location": "Handles like a beauty",
+"latitude": 30.06564,
+"longitude": 30.94132,
 "price": 5.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar12.png",
 "chargeRate": 99,
@@ -123,7 +135,8 @@
 {
 "id": 13,
 "name": "Golf Car Rami",
-"location": "Could go offroad, if it was allowed to",
+"latitude": 30.06563,
+"longitude": 30.94131,
 "price": 7.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar13.png",
 "chargeRate": 100,
@@ -133,7 +146,8 @@
 {
 "id": 14,
 "name": "Golf Car Shushu",
-"location": "Pack your fitness gear and let's go",
+"latitude": 30.06562,
+"longitude": 30.94130,
 "price": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar14.png",
 "chargeRate": 90,
