@@ -3,7 +3,7 @@
 {
 "id": 1,
 "name": "Golf Car Mo",
-"latitude": 30.06573,
+"latitude": 30.06583,
 "longitude": 30.94137,
 "price": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar1.png",
@@ -15,7 +15,7 @@
 "id": 2,
 "name": "Golf Car Sara",
 "latitude": 30.06574,
-"longitude": 30.94138,
+"longitude": 30.94148,
 "price": 5.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar2.png",
 "chargeRate": 60,
@@ -25,7 +25,7 @@
 {
 "id": 3,
 "name": "Golf Car Kimo",
-"latitude": 30.06575,
+"latitude": 30.06585,
 "longitude": 30.94139,
 "price": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar3.png",
@@ -36,7 +36,7 @@
 {
 "id": 4,
 "name": "Golf Car X",
-"latitude": 30.06572,
+"latitude": 30.06472,
 "longitude": 30.94136,
 "price": 6.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar4.png",
@@ -47,7 +47,7 @@
 {
 "id": 5,
 "name": "Golf Car Nino",
-"latitude": 30.06571,
+"latitude": 30.06371,
 "longitude": 30.94135,
 "price": 5.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar5.png",
