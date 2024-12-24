@@ -2,7 +2,7 @@
 "request": [
 {
 "id": 1,
-"name": "Golf Car Mo",
+"name": "Mo",
 "latitude": 30.072073,
 "longitude": 30.941948,
 "price": 4.99,
@@ -13,7 +13,7 @@
 },
 {
 "id": 2,
-"name": "Golf Car Sara",
+"name": "Sara",
 "latitude": 30.070594,
 "longitude": 30.939071,
 "price": 5.99,
@@ -24,7 +24,7 @@
 },
 {
 "id": 3,
-"name": "Golf Car Kimo",
+"name": "Kimo",
 "latitude": 30.065047,
 "longitude": 30.934015,
 "price": 4.99,
@@ -35,7 +35,7 @@
 },
 {
 "id": 4,
-"name": "Golf Car X",
+"name": "Tara",
 "latitude": 30.055669,
 "longitude": 30.946605,
 "price": 6.99,
@@ -46,7 +46,7 @@
 },
 {
 "id": 5,
-"name": "Golf Car Nino",
+"name": "Nino",
 "latitude": 30.068440, 
 "longitude": 30.957179,
 "price": 5.99,
@@ -57,7 +57,7 @@
 },
 {
 "id": 6,
-"name": "Golf Car Mina",
+"name": "Mina",
 "latitude": 30.078401, 
 "longitude": 30.954003,
 "price": 6.99,
@@ -68,7 +68,7 @@
 },
 {
 "id": 7,
-"name": "Golf Car Layla",
+"name": "Layla",
 "latitude": 30.067614, 
 "longitude": 30.965884,
 "price": 4.99,
@@ -79,7 +79,7 @@
 },
 {
 "id": 8,
-"name": "Golf Car Lea",
+"name": "Lea",
 "latitude": 30.066156, 
 "longitude": 30.962714,
 "price": 4.99,
@@ -90,7 +90,7 @@
 },
 {
 "id": 9,
-"name": "Golf Car Bibi",
+"name": "Bibi",
 "latitude": 30.076141, 
 "longitude": 30.949153,
 "price": 4.99,
@@ -101,7 +101,7 @@
 },
 {
 "id": 10,
-"name": "Golf Car Habibi",
+"name": "Habibi",
 "latitude": 30.070705, 
 "longitude": 30.937038,
 "price": 4.99,
@@ -112,7 +112,7 @@
 },
 {
 "id": 11,
-"name": "Golf Car Amura",
+"name": "Amura",
 "latitude": 30.066920, 
 "longitude": 30.934117,
 "price": 5.99,
@@ -123,7 +123,7 @@
 },
 {
 "id": 12,
-"name": "Golf Car Amira",
+"name": "Amira",
 "latitude": 30.069821, 
 "longitude": 30.935638,
 "price": 5.99,
@@ -134,18 +134,18 @@
 },
 {
 "id": 13,
-"name": "Golf Car Rami",
+"name": "Rami",
 "latitude": 30.055421, 
 "longitude": 30.942450,
 "price": 7.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/golfCar13.png",
-"chargeRate": 100,
+"chargeRate": 15,
 "seats": 3,
 "distance": 950
 },
 {
 "id": 14,
-"name": "Golf Car Shushu",
+"name": "Shushu",
 "latitude": 30.058557, 
 "longitude": 30.939760,
 "price": 4.99,
