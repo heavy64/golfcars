@@ -6,9 +6,9 @@
 "latitude": 30.072073,
 "longitude": 30.941948,
 "price": 4.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar1.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 90,
-"seats": 4,
+"seats": 2,
 "distance": 140
 },
 {
@@ -17,7 +17,7 @@
 "latitude": 30.070594,
 "longitude": 30.939071,
 "price": 5.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar2.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/6SeatVehicle.png",
 "chargeRate": 60,
 "seats": 6,
 "distance": 152
@@ -28,9 +28,9 @@
 "latitude": 30.065047,
 "longitude": 30.934015,
 "price": 4.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar3.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/4SeatVehicle.png",
 "chargeRate": 80,
-"seats": 3,
+"seats": 4,
 "distance": 66
 },
 {
@@ -39,7 +39,7 @@
 "latitude": 30.055669,
 "longitude": 30.946605,
 "price": 6.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar4.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/4SeatVehicle.png",
 "chargeRate": 98,
 "seats": 4,
 "distance": 200
@@ -50,9 +50,9 @@
 "latitude": 30.068440, 
 "longitude": 30.957179,
 "price": 5.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar5.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 88,
-"seats": 4,
+"seats": 2,
 "distance": 400
 },
 {
@@ -61,7 +61,7 @@
 "latitude": 30.078401, 
 "longitude": 30.954003,
 "price": 6.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar6.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/6SeatVehicle.png",
 "chargeRate": 91,
 "seats": 6,
 "distance": 300
@@ -72,7 +72,7 @@
 "latitude": 30.067614, 
 "longitude": 30.965884,
 "price": 4.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar7.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 90,
 "seats": 2,
 "distance": 320
@@ -83,7 +83,7 @@
 "latitude": 30.066156, 
 "longitude": 30.962714,
 "price": 4.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar8.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 46,
 "seats": 2,
 "distance": 420
@@ -94,7 +94,7 @@
 "latitude": 30.076141, 
 "longitude": 30.949153,
 "price": 4.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar9.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 56,
 "seats": 2,
 "distance": 520
@@ -105,9 +105,9 @@
 "latitude": 30.070705, 
 "longitude": 30.937038,
 "price": 4.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar10.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 76,
-"seats": 6,
+"seats": 2,
 "distance": 510
 },
 {
@@ -116,7 +116,7 @@
 "latitude": 30.066920, 
 "longitude": 30.934117,
 "price": 5.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar11.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 29,
 "seats": 2,
 "distance": 540
@@ -127,9 +127,9 @@
 "latitude": 30.069821, 
 "longitude": 30.935638,
 "price": 5.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar12.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/4SeatVehicle.png",
 "chargeRate": 99,
-"seats": 3,
+"seats": 4,
 "distance": 550
 },
 {
@@ -138,9 +138,9 @@
 "latitude": 30.055421, 
 "longitude": 30.942450,
 "price": 7.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar13.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/4SeatVehicle.png",
 "chargeRate": 15,
-"seats": 3,
+"seats": 4,
 "distance": 950
 },
 {
@@ -149,9 +149,9 @@
 "latitude": 30.058557, 
 "longitude": 30.939760,
 "price": 4.99,
-"imageUrl": "https://heavy64.github.io/golfcars/images/golfCar14.png",
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 90,
-"seats": 3,
+"seats": 2,
 "distance": 1130
 }
 ]
