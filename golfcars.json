@@ -7,6 +7,7 @@
 "longitude": 30.941948,
 "price": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
+"Annotation": "https://heavy64.github.io/golfcars/images/MapAnnotation_Trans.png",
 "chargeRate": 90,
 "seats": 2,
 "distance": 140
