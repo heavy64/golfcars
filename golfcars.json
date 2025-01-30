@@ -8,8 +8,7 @@
 "price_caddie": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 90,
-"seats": 2,
-"distance": 140
+"seats": 2
 },
 {
 "id": 2,
@@ -19,8 +18,7 @@
 "price_caddie": 5.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/6SeatVehicle.png",
 "chargeRate": 60,
-"seats": 6,
-"distance": 152
+"seats": 6
 },
 {
 "id": 3,
@@ -30,8 +28,7 @@
 "price_caddie": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/4SeatVehicle.png",
 "chargeRate": 80,
-"seats": 4,
-"distance": 66
+"seats": 4
 },
 {
 "id": 4,
@@ -41,8 +38,7 @@
 "price_caddie": 6.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/4SeatVehicle.png",
 "chargeRate": 98,
-"seats": 4,
-"distance": 200
+"seats": 4
 },
 {
 "id": 5,
@@ -52,8 +48,7 @@
 "price_caddie": 5.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 88,
-"seats": 2,
-"distance": 400
+"seats": 2
 },
 {
 "id": 6,
@@ -63,8 +58,7 @@
 "price_caddie": 6.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/6SeatVehicle.png",
 "chargeRate": 91,
-"seats": 6,
-"distance": 300
+"seats": 6
 },
 {
 "id": 7,
@@ -74,8 +68,7 @@
 "price_caddie": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 90,
-"seats": 2,
-"distance": 320
+"seats": 2
 },
 {
 "id": 8,
@@ -85,8 +78,7 @@
 "price_caddie": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 46,
-"seats": 2,
-"distance": 420
+"seats": 2
 },
 {
 "id": 9,
@@ -96,8 +88,7 @@
 "price_caddie": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 56,
-"seats": 2,
-"distance": 520
+"seats": 2
 },
 {
 "id": 10,
@@ -107,8 +98,7 @@
 "price_caddie": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 76,
-"seats": 2,
-"distance": 510
+"seats": 2
 },
 {
 "id": 11,
@@ -118,8 +108,7 @@
 "price_caddie": 5.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 29,
-"seats": 2,
-"distance": 540
+"seats": 2
 },
 {
 "id": 12,
@@ -129,8 +118,7 @@
 "price_caddie": 5.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/4SeatVehicle.png",
 "chargeRate": 99,
-"seats": 4,
-"distance": 550
+"seats": 4
 },
 {
 "id": 13,
@@ -140,8 +128,7 @@
 "price_caddie": 7.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/4SeatVehicle.png",
 "chargeRate": 15,
-"seats": 4,
-"distance": 950
+"seats": 4
 },
 {
 "id": 14,
@@ -151,8 +138,7 @@
 "price_caddie": 4.99,
 "imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
 "chargeRate": 90,
-"seats": 2,
-"distance": 1130
+"seats": 2
 }
 ]
 }
